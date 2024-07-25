@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Guilherme Fernandes</h1>
 <h3 align="center">Um desenvolvedor apaixonado do Brasil</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermeszfernandes&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermeszfernandes" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermeszfernandes&label=Profile%20views&color=000000&style=flat" alt="guilhermeszfernandes" /> </p>
 
 - 🔭 Atualmente estou trabalhando em **???**
 
