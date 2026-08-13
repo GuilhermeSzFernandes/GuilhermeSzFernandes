@@ -21,7 +21,7 @@ Sempre aberto a aprender, colaborar em projetos e trocar ideia com quem também 
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td align="center" valign="top" width="50%">
 
 ### Backend
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
@@ -29,7 +29,7 @@ Sempre aberto a aprender, colaborar em projetos e trocar ideia com quem também 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
 </td>
-<td valign="top" width="50%">
+<td align="center" valign="top" width="50%">
 
 ### Frontend
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -37,7 +37,7 @@ Sempre aberto a aprender, colaborar em projetos e trocar ideia com quem também 
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
+<td align="center" colspan="2" valign="top">
 
 ### Dados
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
