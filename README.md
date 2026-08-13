@@ -19,6 +19,7 @@ Sempre aberto a aprender, colaborar em projetos e trocar ideia com quem também 
   </picture>
 </p>
 
+<p align="center">
 <table>
 <tr>
 <td align="center" valign="top" width="50%">
@@ -45,6 +46,7 @@ Sempre aberto a aprender, colaborar em projetos e trocar ideia com quem também 
 </td>
 </tr>
 </table>
+</p>
 
 ### Atividade
 
