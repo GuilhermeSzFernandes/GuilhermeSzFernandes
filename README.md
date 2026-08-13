@@ -20,7 +20,7 @@ Sempre aberto a aprender, colaborar em projetos e trocar ideia com quem também 
 </p>
 
 <p align="center">
-<table>
+<table width="100%">
 <tr>
 <td align="center" valign="top" width="50%">
 
