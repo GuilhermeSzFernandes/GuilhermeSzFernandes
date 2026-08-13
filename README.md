@@ -1,50 +1,65 @@
-<h1 align="left">Hey 👋 Bom te ver aqui.</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+%40+Ndevs+Solutions;Sempre+em+desenvolvimento..." alt="typing banner"/>
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilhermeszfernandes"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:guilhermeszfernandes@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<h4 align="left">Bem-vindo(a) ao meu perfil!<br>Sou Guilherme Fernandes, estudante e entusiasta de desenvolvimento web, apaixonado por tecnologia desde a infância.</h4>
+Escrevo código desde os 13 anos — começou como curiosidade, virou profissão. Hoje trabalho full-time na Ndevs Solutions enquanto termino a Etec (Informática pra Internet). Atuo com C#, ASP.NET e SQL no dia a dia — desenvolvimento backend, criação de APIs e integração entre sistemas, além de manutenção de aplicações corporativas. No TCC uso Java, aprofundando arquitetura backend e APIs escaláveis.
 
-###
+Sempre aberto a aprender, colaborar em projetos e trocar ideia com quem também curte backend.
 
-<h2 align="left">About me</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/dots-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/dots-light.svg">
+    <img src="assets/dots-dark.svg" width="100%" alt="">
+  </picture>
+</p>
 
-###
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<p align="left">💻 O que eu faço: desenvolvo soluções web e backend, focando em código limpo e eficiente<br>📚 No que estou evoluindo: arquitetura de sistemas, boas práticas e desenvolvimento full stack<br>🚀 Para onde estou indo: construir sistemas escaláveis e me tornar um dev cada vez mais completo</p>
+### Backend
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<br/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
 
-###
+</td>
+<td valign="top" width="50%">
 
-<h2 align="left">Stack principal</h2>
+### Frontend
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
-###
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-<div align="left">
-  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
-</div>
+### Dados
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
-###
+</td>
+</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guilhermeszfernandes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=guilhermeszfernandes&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+### Atividade
 
-###
+<p align="center">
+  <img height="165em" src="https://streak-stats.demolab.com/?user=guilhermeszfernandes&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermeszfernandes/guilhermeszfernandes/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermeszfernandes/guilhermeszfernandes/output/github-contribution-grid-snake.svg">
+    <img alt="snake" src="https://raw.githubusercontent.com/guilhermeszfernandes/guilhermeszfernandes/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+Bora trocar ideia sobre backend, arquitetura de API ou vaga de júnior/pleno.
+
+📧 [guilhermeszfernandes@outlook.com](mailto:guilhermeszfernandes@outlook.com) · 💼 [linkedin.com/in/guilhermeszfernandes](https://www.linkedin.com/in/guilhermeszfernandes)
