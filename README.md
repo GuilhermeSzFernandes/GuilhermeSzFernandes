@@ -63,6 +63,6 @@ Sempre aberto a aprender, colaborar em projetos e trocar ideia com quem também 
   </picture>
 </p>
 
-Bora trocar ideia sobre backend, arquitetura de API ou vaga de júnior/pleno.
+Bora trocar ideia sobre backend, arquitetura de API ou oportunidades de vaga de pleno.
 
 📧 [guilhermeszfernandes@outlook.com](mailto:guilhermeszfernandes@outlook.com) · 💼 [linkedin.com/in/guilhermeszfernandes](https://www.linkedin.com/in/guilhermeszfernandes)
